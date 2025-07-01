@@ -100,7 +100,7 @@ spark-amis-communs/
 
 ## 👨‍🎓 Réalisé par
 
-- Nom : [Votre Nom]
+- Nom : Mohmed Mahmoud Ahmedou Beffa
 - Master ISDR – Université de Nouakchott Al Aasriya
 - Année : 2024 / 2025
 
